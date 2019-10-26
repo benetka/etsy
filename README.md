@@ -11,5 +11,6 @@ Some goodreads about DS team @ Etsy:
 - [Etsy Data Science Insights (PDF)](http://www.hongliangjie.com/talks/Etsy_DataScience_Insights.pdf)
 - [Interview with Diane Hu, Etsy](http://www.careercontessa.com/interviews/diane-hu-data-scientist-etsy/)
 
-Apply for internship in 2018:  
-https://www.etsy.com/careers/job/e41e7efb-2e92-41b4-9acf-10b04ea88645
+<p>Example output: <i>Sentiment polarity of some listing reviews</i>.</a>
+
+<a href="https://github.com/benetka/etsy/blob/master/I%20want%20to%20intern%20at%20Etsy!.ipynb" title="See the notebook."><img src="http://www.rybak.io/research_data/etsy/sentiment_polarity.png" width="80%"></a>
